@@ -1,0 +1,2 @@
+C:\Users\pikak\CS\SE2250\midterm\Project1\Project1\obj\Debug\Project1.csproj.AssemblyReference.cache
+C:\Users\pikak\CS\SE2250\midterm\Project1\Project1\obj\Debug\Project1.csproj.CoreCompileInputs.cache
